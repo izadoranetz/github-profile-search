@@ -8,6 +8,7 @@ import { GithubService } from './github.service';
 })
 
 export class AppComponent implements OnInit {
+  title: string = 'Buscador do Github';
   username: string = '';
   userInfo: any;
   userRepos: any[] = [];
