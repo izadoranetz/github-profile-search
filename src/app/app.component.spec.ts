@@ -125,108 +125,6 @@ class MockGithubService {
         "open_issues": 0,
         "watchers": 0,
         "default_branch": "master"
-      },
-      {
-        "id": 589772668,
-        "node_id": "R_kgDOIyc3fA",
-        "name": "01-fundamentos-reactjs-ts",
-        "full_name": "izadoranetz/01-fundamentos-reactjs-ts",
-        "private": false,
-        "owner": {
-          "login": "izadoranetz",
-          "id": 10082957,
-          "node_id": "MDQ6VXNlcjEwMDgyOTU3",
-          "avatar_url": "https://avatars.githubusercontent.com/u/10082957?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/izadoranetz",
-          "html_url": "https://github.com/izadoranetz",
-          "followers_url": "https://api.github.com/users/izadoranetz/followers",
-          "following_url": "https://api.github.com/users/izadoranetz/following{/other_user}",
-          "gists_url": "https://api.github.com/users/izadoranetz/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/izadoranetz/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/izadoranetz/subscriptions",
-          "organizations_url": "https://api.github.com/users/izadoranetz/orgs",
-          "repos_url": "https://api.github.com/users/izadoranetz/repos",
-          "events_url": "https://api.github.com/users/izadoranetz/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/izadoranetz/received_events",
-          "type": "User",
-          "site_admin": false
-        },
-        "html_url": "https://github.com/izadoranetz/01-fundamentos-reactjs-ts",
-        "description": null,
-        "fork": false,
-        "url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts",
-        "forks_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/forks",
-        "keys_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/teams",
-        "hooks_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/hooks",
-        "issue_events_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/events",
-        "assignees_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/tags",
-        "blobs_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/languages",
-        "stargazers_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/stargazers",
-        "contributors_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/contributors",
-        "subscribers_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/subscribers",
-        "subscription_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/subscription",
-        "commits_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/merges",
-        "archive_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/downloads",
-        "issues_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/labels{/name}",
-        "releases_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/izadoranetz/01-fundamentos-reactjs-ts/deployments",
-        "created_at": "2023-01-16T22:36:31Z",
-        "updated_at": "2023-01-16T22:36:40Z",
-        "pushed_at": "2023-01-16T22:36:36Z",
-        "git_url": "git://github.com/izadoranetz/01-fundamentos-reactjs-ts.git",
-        "ssh_url": "git@github.com:izadoranetz/01-fundamentos-reactjs-ts.git",
-        "clone_url": "https://github.com/izadoranetz/01-fundamentos-reactjs-ts.git",
-        "svn_url": "https://github.com/izadoranetz/01-fundamentos-reactjs-ts",
-        "homepage": null,
-        "size": 31,
-        "stargazers_count": 0,
-        "watchers_count": 0,
-        "language": "TypeScript",
-        "has_issues": true,
-        "has_projects": true,
-        "has_downloads": true,
-        "has_wiki": true,
-        "has_pages": false,
-        "has_discussions": false,
-        "forks_count": 0,
-        "mirror_url": null,
-        "archived": false,
-        "disabled": false,
-        "open_issues_count": 0,
-        "license": null,
-        "allow_forking": true,
-        "is_template": false,
-        "web_commit_signoff_required": false,
-        "topics": [
-    
-        ],
-        "visibility": "public",
-        "forks": 0,
-        "open_issues": 0,
-        "watchers": 0,
-        "default_branch": "master"
       }]);}
 }
 
@@ -303,4 +201,19 @@ describe('AppComponent', () => {
     component.getUserRepos(username);
     expect((githubService as any)['getUserRepos']).toHaveBeenCalledWith(username);
   });
+
+  it('should not call getUserInfo and getUserRepos when username is empty', () => {
+    const spyGetUserInfo = spyOn(component, 'getUserInfo');
+    const spyGetUserRepos = spyOn(component, 'getUserRepos');
+    const spyConsole = spyOn(console, 'log');
+
+    component.username = '';
+    component.search();
+
+    expect(spyGetUserInfo).not.toHaveBeenCalled();
+    expect(spyGetUserRepos).not.toHaveBeenCalled();
+    expect(spyConsole).toHaveBeenCalledWith('Por favor, insira um nome de usuário.');
+  });
+
 });
+
